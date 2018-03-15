@@ -1,0 +1,6 @@
+[submodule "auth/oauth2"]
+	path = auth/oauth2
+	url = git@github.com:golang/oauth2.git
+[submodule "auth/oauth2.v3"]
+	path = auth/oauth2.v3
+	url = git@github.com:go-oauth2/oauth2.git
